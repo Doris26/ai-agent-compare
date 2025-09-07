@@ -1,6 +1,14 @@
-# Unified Agent Orchestration Overview
+# AI Agent Framework Comparison & Analysis
 
-This README provides high-level orchestration summaries for the following packages in this repository:
+## About
+
+This repository provides a comprehensive comparison and analysis of top AI agent frameworks and orchestration patterns. It includes both reference implementations (applications) and general-purpose frameworks, examining their orchestration strategies, tool integration, human-in-the-loop patterns, and architectural trade-offs.
+
+**Purpose**: Compare and analyze top AI agent frameworks to help developers choose the right orchestration approach for their use cases.
+
+## What's Inside
+
+This repository contains analysis and examples of the following packages:
 
 - gemini-cli
 - adk-python (Agent Development Kit)
